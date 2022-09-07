@@ -606,8 +606,6 @@ MonoBehaviour:
   gravity: 2
   jumpWeight: 5
   jumpHeight: 3
-  jumping: 0
-  movement: {x: 0, y: 0, z: 0}
 --- !u!1 &1898078069
 GameObject:
   m_ObjectHideFlags: 0
@@ -660,7 +658,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 629c6d6260ea112468d7065e308e1868, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
